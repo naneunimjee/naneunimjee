@@ -2,7 +2,8 @@
 ## ✨About Me✨
 - 숙명여자대학교 컴퓨터과학전공 22학번💻
 - GDSC Sookmyung 23-24 Member👩‍💻
-- 숙명여자대학교 알고리즘 학회 ALGOS 25-26 :pencil2:
+- 숙명여자대학교 알고리즘 학회 ALGOS 25-26 ✏️
+- 숙명여자대학교 데이터 분석 동아리 DACOS 4기 📊
   <br><br>
 
  ## 📱SNS📱
